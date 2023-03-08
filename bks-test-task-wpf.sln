@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33027.164
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bks-test-task-wpf", "bks-test-task-wpf.csproj", "{F7C50F9A-14B7-4902-B869-8F37118C9ECD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7C50F9A-14B7-4902-B869-8F37118C9ECD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7C50F9A-14B7-4902-B869-8F37118C9ECD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7C50F9A-14B7-4902-B869-8F37118C9ECD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7C50F9A-14B7-4902-B869-8F37118C9ECD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {979386B7-1D14-45FF-A023-A6F469B7BB33}
+	EndGlobalSection
+EndGlobal
